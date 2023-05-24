@@ -39,7 +39,7 @@ public class CourseService {
     @DSTransactional
     public int createCourse(Course course){
         int res = jdbcTemplate.update("insert into course values(?,?,?,?)",course.getCid(),course.getCname(),course.getUserId(),course.getCstatus());
-        int i = 1/0;
+        //int i = 1/0;
         return res;
     }
 }
