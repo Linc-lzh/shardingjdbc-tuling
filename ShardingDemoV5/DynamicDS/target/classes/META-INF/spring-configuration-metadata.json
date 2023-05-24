@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.datasource1",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.roy.routingDs.config.DataSourceConfig",
+      "sourceMethod": "dataSource1()"
+    },
+    {
+      "name": "spring.datasource.datasource2",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.roy.routingDs.config.DataSourceConfig",
+      "sourceMethod": "dataSource2()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

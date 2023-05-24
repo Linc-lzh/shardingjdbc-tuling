@@ -1,0 +1,5 @@
+com/roy/dsframework/mapper/CourseMapper.class
+com/roy/dsframework/DSFrameworkApp.class
+com/roy/dsframework/controller/CourseControllerDS.class
+com/roy/dsframework/entity/Course.class
+com/roy/dsframework/service/CourseService.class

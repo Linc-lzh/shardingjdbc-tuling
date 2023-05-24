@@ -1,0 +1,6 @@
+com/roy/routingDs/config/DataSourceConfig.class
+com/roy/routingDs/mapper/CourseMapper.class
+com/roy/routingDs/controller/CourseControllerRDS.class
+com/roy/routingDs/DSApp.class
+com/roy/routingDs/config/DynamicDataSource.class
+com/roy/routingDs/entity/Course.class

@@ -1,0 +1,13 @@
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/algorithm/MyComplexAlgorithm.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/mapper/DictMapper.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/mapper/CourseMapper.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/algorithm/MyKeyGeneratorAlgorithm.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/algorithm/MySnowFlakeAlgorithm.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/mapper/UserMapper.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/ShardingJDBCApplication.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/entity/Dict.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/entity/Course.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/entity/User.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/mapper/UserCourseInfoMapper.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/entity/UserCourseInfo.java
+/home/linc/Documents/code/shardingJDBC/ShardingDemoV5/Sharding/src/main/java/com/roy/shardingDemo/geneDemo/geneDemo.java

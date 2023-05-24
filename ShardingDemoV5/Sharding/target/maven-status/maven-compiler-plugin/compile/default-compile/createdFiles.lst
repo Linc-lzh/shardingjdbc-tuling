@@ -1,0 +1,13 @@
+com/roy/shardingDemo/algorithm/MyComplexAlgorithm.class
+com/roy/shardingDemo/ShardingJDBCApplication.class
+com/roy/shardingDemo/mapper/UserCourseInfoMapper.class
+com/roy/shardingDemo/geneDemo/geneDemo.class
+com/roy/shardingDemo/entity/Dict.class
+com/roy/shardingDemo/algorithm/MySnowFlakeAlgorithm.class
+com/roy/shardingDemo/algorithm/MyKeyGeneratorAlgorithm.class
+com/roy/shardingDemo/entity/User.class
+com/roy/shardingDemo/entity/Course.class
+com/roy/shardingDemo/mapper/UserMapper.class
+com/roy/shardingDemo/entity/UserCourseInfo.class
+com/roy/shardingDemo/mapper/DictMapper.class
+com/roy/shardingDemo/mapper/CourseMapper.class
